@@ -14,7 +14,7 @@ const data = [
 function App() {
   return (
     <div>
-      <h1>Data Visualization System</h1>
+      <h1>Data Visualization System (WeBrunch)</h1>
       <ResponsiveContainer width="100%" height={400}>
         <BarChart data={data}>
           <CartesianGrid strokeDasharray="3 3" />
